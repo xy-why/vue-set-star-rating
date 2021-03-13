@@ -1,0 +1,25 @@
+{
+  "name": "vue-set-star-rating",
+  "version": "1.0.0",
+  "description": "dynamic vue stars rating component, similar to google play stars rating",
+  "main": "star-set-rating.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "vue": "2.6.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xy-why/vue-set-star-rating.git"
+  },
+  "keywords": [
+    "vue","star", "rating", "star-rating", "stars-rating"
+  ],
+  "author": "xy<zaoshang3@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xy-why/vue-set-star-rating/issues"
+  },
+  "homepage": "https://github.com/xy-why/vue-set-star-rating#vue-set-star-rating"
+}
